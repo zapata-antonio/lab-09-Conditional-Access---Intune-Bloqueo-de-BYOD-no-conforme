@@ -20,7 +20,7 @@ Bloquear el acceso a aplicaciones corporativas desde dispositivos BYOD **no conf
 
 ## Qué configuré
 Creé una política de Acceso Condicional que:
-- se aplica al usuario de pruebas (`usuario_9`)
+- se aplica al usuario de pruebas (`usuario_4`)
 - afecta a **Office 365** (entrada típica: portal.office.com / myapps.microsoft.com)
 - y exige que el dispositivo sea **compliant**
 
