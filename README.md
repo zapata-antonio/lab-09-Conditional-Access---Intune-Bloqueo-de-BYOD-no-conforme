@@ -1,4 +1,4 @@
-# LAB 09 — Conditional Access: Bloqueo de BYOD no conforme  
+# LAB 09 — Conditional Access + Intune: Bloqueo de BYOD no conforme
 **(Require Compliant Device + Intune)**
 
 ## Contexto (por qué hice este lab)
