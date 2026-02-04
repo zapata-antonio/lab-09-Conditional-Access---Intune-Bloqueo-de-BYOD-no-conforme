@@ -95,7 +95,7 @@ Para completar el caso BYOD “de verdad”, configuré una directiva de cumplim
 [<img src="images/06-access-allowed-compliant-device.png" width="800">](images/06-access-allowed-compliant-device.png)
 
 #### 07) Sign-in logs: acceso permitido (dispositivo compliant) 
-[<img src="images/05-access-allowed-compliant-device.png" width="800">](images/07-signinlogs-ca-allowed.png)
+[<img src="images/07-signinlogs-ca-allowed.png" width="800">](images/07-signinlogs-ca-allowed.png)
 
 ---
 
